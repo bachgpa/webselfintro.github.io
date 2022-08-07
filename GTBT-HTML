@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Đây là web giới thiệu Bách Đệp Trai</title>
+    <link rel="stylesheet" href="C:\Users\sonh\Desktop\C++\fileHTML\gioithieubanthan.css" />
+    <script src="https://kit.fontawesome.com/1173538a12.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <div class="head">
+      <div class="menu">
+        <div class="library">
+          <ul class="lib-ul">
+            <li><a href="">Home</a></li>
+            <li>
+              <a href="">introduce</a>
+              <ul class="drop-menu">
+                <li><a href="#">SsssssssssSS</a></li>
+                <li><a href="#">SsssssssssSS</a></li>
+                <li><a href="#">SsssssssssSS</a></li>
+                <li><a href="#">SsssssssssSS</a></li>
+              </ul>
+            </li>
+            <li><a href="">interest</a></li>
+            <li><a href="">hobbies</a></li>
+          </ul>
+        </div>
+        <div class="social">
+          <ul>
+            <li><a class="soc-a" href=""><span style="color:rgb(255, 255, 255); font-size: 12px;"><i class="fa-brands fa-square-facebook"></i></span></a></li>
+            <li><a class="soc-a" href=""><span style="color:rgb(255, 255, 255); font-size: 12px;"><i class="fa-brands fa-instagram"></i></span></a></li>
+            <li><a class="soc-a" href=""><span style="color:rgb(255, 255, 255); font-size: 12px;"><i class="fa-brands fa-youtube"></i></span></a></li>
+            <li><a class="soc-a" href=""><span style="color:rgb(255, 255, 255); font-size: 12px;"><i class="fa-brands fa-tiktok"></i></span></a></li>         
+          </ul>
+        </div>
+      </div>
+      <div class="logo-title">
+        <div class="logo"><img class="lg" src="https://i.pinimg.com/736x/af/09/41/af0941ba06185e9846af909ba9350baf--letter-b-logo-b-logo-design.jpg"></div>
+        <div class="title">wibu bất tử</div>
+      </div>
+    </div>
+    <div class="body">
+      <div class="grid-father">
+        <div class="grid">
+          <a id="grid-1" href="#">qqqqqqqq</a>
+          <a id="grid-2" href="#">qqqqqqqq</a>
+          <a id="grid-3" href="#">qqqqqqqq</a>
+          <a id="grid-4" href="#">qqqqqqqq</a>
+          <a id="grid-5" href="#">qqqqqqqq</a>
+          <a id="grid-6" href="#">qqqqqqqq</a>
+        </div>
+      </div>
+      <div class="list">
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+      </div>
+        <div class="post">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur delectus beatae saepe nulla incidunt molestiae facilis dicta sit consectetur fugiat, omnis quibusdam eos expedita atque repudiandae itaque quod ipsam dolores. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus, earum expedita eaque assumenda blanditiis deserunt deleniti ad, facere perspiciatis numquam voluptas a voluptatibus veritatis modi et ea placeat fugiat dolores? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non deserunt ut ipsum fugiat tenetur saepe necessitatibus eaque? Accusantium ipsam blanditiis natus tempora dolor nemo laborum velit, vero soluta eos unde. Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur consequuntur omnis nesciunt aliquid architecto perferendis sint possimus delectus doloremque praesentium, velit nostrum quos porro cum dolor voluptates minima impedit cumque.
+        </div>    
+      <div class="list">
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. aosi oeifu piuofh asipdf
+      </div>
+        <div class="post">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur delectus beatae saepe nulla incidunt molestiae facilis dicta sit consectetur fugiat, omnis quibusdam eos expedita atque repudiandae itaque quod ipsam dolores. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus, earum expedita eaque assumenda blanditiis deserunt deleniti ad, facere perspiciatis numquam voluptas a voluptatibus veritatis modi et ea placeat fugiat dolores? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non deserunt ut ipsum fugiat tenetur saepe necessitatibus eaque? Accusantium ipsam blanditiis natus tempora dolor nemo laborum velit, vero soluta eos unde. Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur consequuntur omnis nesciunt aliquid architecto perferendis sint possimus delectus doloremque praesentium, velit nostrum quos porro cum dolor voluptates minima impedit cumque.
+        </div>    
+      <div class="list">
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit.asf7t897
+        <div class="post">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur delectus beatae saepe nulla incidunt molestiae facilis dicta sit consectetur fugiat, omnis quibusdam eos expedita atque repudiandae itaque quod ipsam dolores. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus, earum expedita eaque assumenda blanditiis deserunt deleniti ad, facere perspiciatis numquam voluptas a voluptatibus veritatis modi et ea placeat fugiat dolores? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non deserunt ut ipsum fugiat tenetur saepe necessitatibus eaque? Accusantium ipsam blanditiis natus tempora dolor nemo laborum velit, vero soluta eos unde. Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur consequuntur omnis nesciunt aliquid architecto perferendis sint possimus delectus doloremque praesentium, velit nostrum quos porro cum dolor voluptates minima impedit cumque.
+        </div>    
+    </div>
+    <div class="foot">
+      <div class="contact"></div>
+      <div class="donate"></div>
+      <div class="ask"></div>
+    </div>
+    
+  </body>
+</html>
